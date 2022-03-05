@@ -11,4 +11,5 @@
 另3：红色节点将会被忽略不会被打印，所以最好避免出现相邻音符
 另4：在这个网址可下载mid文件https://musicboxmaniacs.com/
 另5：世界上另一款八音盒编辑器FairyMusicBox，网站：http://www.fairymusicbox.com/midi/
-视频演示地址https://www.bilibili.com/video/BV1Zr4y1B7mz（可百度网盘下载）
+视频演示地址https://www.bilibili.com/video/BV1Zr4y1B7mz
+（可百度网盘下载）
