@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/octave_black.qss</file>
+        <file>res/octave_white.qss</file>
+        <file>res/大白兔.ico</file>
+        <file>res/红圆.png</file>
+        <file>res/空圆.png</file>
+        <file>res/绿圆.png</file>
+        <file>res/大白兔大.png</file>
+        <file>res/大白兔小.png</file>
+    </qresource>
+</RCC>
